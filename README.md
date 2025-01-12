@@ -19,4 +19,4 @@ Da biste pokrenuli igru morate kompajlirati i pokrenuti main.cpp:
 
 ## Poboljšanja
 - pametniji AI
-- vizualizacija igre
+- bolja vizualizacija igre
