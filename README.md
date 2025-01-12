@@ -16,3 +16,7 @@ Da biste pokrenuli igru morate kompajlirati i pokrenuti main.cpp:
 
   g++ -std=c++14 -o battleship main.cpp
   ./battleship
+
+## Poboljšanja
+- pametniji AI
+- vizualizacija igre
